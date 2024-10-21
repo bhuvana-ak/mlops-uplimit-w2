@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - master  # Run when pushing to the main branch
+      - main
 
 # Define the jobs in this workflow
 jobs:
